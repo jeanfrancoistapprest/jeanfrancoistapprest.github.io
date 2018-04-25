@@ -1,0 +1,121 @@
+a {
+  text-decoration: none;
+  /* cursor: pointer;*/
+}
+
+#wrapper {
+  background: url("../img/leavingroom.png") no-repeat 0 grey;
+  background-size: 100% 100%;
+  padding-bottom: 200px;
+  opacity: 0.9;
+}
+
+#portfoliowrapper {
+  background-color: grey;
+  padding-bottom: 10px; 
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav li a {
+  font-size: 1.5em;
+  font-weight: 800;
+  padding: 15px 10px;
+  color: #fff;
+}
+
+#test a {
+  display: block;
+  margin-left: 500px !important;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black; 
+}
+
+h1, h2 {
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-family: Marker Felt, fantasy;
+  font-size: 7em;
+  font-weight: normal;
+  margin-top: 150px;
+}
+
+h2 {
+  margin-top: 75px;
+}
+
+img {
+  max-width: 100%; 
+}
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  }
+
+#gallery li {
+   display: inline-block;
+  }
+
+#gallery img {
+  float: left;
+  clear:left;
+  width: 45%;
+  margin: 2.5%;
+  background-color: #f5f5f5;
+  }
+
+#gallery p {
+  margin: 0;
+  padding: 5%;
+  font-size: 1.5em;
+  color: #bdc3c7; 
+  border: red solid 1px;
+}
+
+#clear {
+  clear: both;
+}
+
+p {
+  text-align: center; 
+}
+
+#learnmore {
+ list-style: none; 
+ margin-left: 1000px;
+ background-color: grey;
+ padding: 5px 20px 5px 20px;
+ color: #fff; 
+}
+
+footer {
+  font-size: 0,75em;
+  text-align: center;
+  clear: both
+  padding-top: 50px;
+  color: #ccc;
+}
+
+#about-title {
+  color: black;
+}
+
+#test {
+  display: block;
+  max-width: 45%;
+  font-style: italic;
+  
+}
